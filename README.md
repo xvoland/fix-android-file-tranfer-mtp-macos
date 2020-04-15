@@ -10,6 +10,12 @@ An easy way to use this shell-script is to copy/paste this line into the console
 
 
 
+#### Download App Links:
+
+- Samsung Smart Switch https://www.samsung.com/uk/support/switching/#top-macos
+
+
+
 ## If you want more
 
 ### Donation
